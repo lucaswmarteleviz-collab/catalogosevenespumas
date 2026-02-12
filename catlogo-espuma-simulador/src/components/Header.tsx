@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const logoImg = '/logo-seven-espumas.jpg';
+const logoImg = '/logo-seven-espumas.png';
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);

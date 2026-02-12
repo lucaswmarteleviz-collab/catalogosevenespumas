@@ -1,4 +1,4 @@
-const logoImg = '/logo-seven-espumas.jpg';
+const logoImg = '/logo-seven-espumas.png';
 
 export function Hero() {
   return (
