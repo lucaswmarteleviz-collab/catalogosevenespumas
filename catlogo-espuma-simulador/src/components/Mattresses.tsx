@@ -89,7 +89,7 @@ export function Mattresses() {
                           {formatCurrency(price)}
                         </span>
                         <a
-                          href={`https://wa.me/5500000000000?text=${encodeURIComponent(
+                          href={`https://wa.me/5541988442226?text=${encodeURIComponent(
                             `Olá! Gostaria de um colchão ${size.name} (${size.width}x${size.length}cm) com ${h}cm de espessura, densidade ${density.name}. Valor estimado: ${formatCurrency(price)}`
                           )}`}
                           target="_blank"
