@@ -68,7 +68,7 @@ export const SHEET_SIZE = { width: 210, length: 310 } as const;
 
 export const MAX_DIMENSIONS = { width: 210, length: 160, height: 100 } as const;
 
-export const WHATSAPP_NUMBER = '5500000000000'; // Placeholder
+export const WHATSAPP_NUMBER = '5541988442226'; // Placeholder
 
 export const MIN_ORDER_VALUE = 500;
 
